@@ -18,11 +18,9 @@ O objetivo foi:
 
 As seguintes fontes foram utilizadas e inseridas no NotebookLM:
 
-1. https://aws.amazon.com/what-is/demand-forecasting/
-2. https://www.ibm.com/topics/demand-forecasting
-3. https://www.investopedia.com/terms/d/demand-forecasting.asp
-4. https://towardsdatascience.com/
-5. https://www.mckinsey.com/capabilities/operations/our-insights
+1. [https://aws.amazon.com/what-is/demand-forecasting/](https://www.ibm.com/think/topics/ai-agents-supply-chain)
+2. [https://www.ibm.com/topics/demand-forecasting](https://www.sap.com/brazil/resources/ai-in-supply-chain-management)
+3. https://learn.microsoft.com/pt-br/dynamics365/supply-chain/master-planning/introduction-demand-forecasting
 
 ---
 
